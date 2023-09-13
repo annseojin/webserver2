@@ -21,6 +21,11 @@ ul {
   padding: 0 30px;
 }
 
+.main {
+  color: rgb(151, 151, 227);
+  line-height: 2.5;
+}
+
 .navbar {
   background-color: black;
   color: white;
@@ -59,11 +64,6 @@ ul {
 .navbar a:hover {
   border-bottom: 2px #fff solid;
   color: #aaa;
-}
-
-main {
-  color: rgb(151, 151, 227);
-  line-height: 2.5;
 }
 
 button {
